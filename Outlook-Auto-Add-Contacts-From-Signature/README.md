@@ -1,6 +1,6 @@
 ## Add outlook contacts automatically by email 
 
-##### This program scans email signatures and adds data to appropriate contact fields in outlook
+#### This program scans email signatures and adds data to appropriate contact fields in outlook
 
 ###### Current Progess
 * Australian Addresses only
