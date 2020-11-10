@@ -3,8 +3,8 @@
 ##### This program traces a unique a path on the screen, drawing "tokens" to indicate clan discoveries made
 along the way. 
 
-###### How to run##### 
+###### How to run
 * Needs Python installed on local machine
 * Donwload and unzip
-* locate treasyre_map.py, open in Idle
+* locate treasure_map.py, open in Idle
 * run module or F5
